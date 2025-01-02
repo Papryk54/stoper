@@ -1,6 +1,9 @@
 .container {
 	width: 100vw;
 	height: 100vh;
+	display: flex;
 	position: absolute;
-	background-color: gray;
+	background-color: rgba(47, 53, 66, 255);
+	align-items: center;
+	justify-content: center;
 }

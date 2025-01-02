@@ -1,6 +1,21 @@
 .TimeDisplay {
-	font-size: 20px;
-	background-color: #fff;
+	display: flex;
+	font-size: 30px;
+	background-color: rgba(47, 53, 66, 255);
 	width: 500px;
 	height: 500px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+}
+
+button {
+	font-size: 20px;
+	background-color: rgba(32, 206, 117, 255);
+	border: none;
+	border-radius: 5px;
+	margin-left: 10px;
+	line-height: 40px;
+	padding: 0 10px;
 }

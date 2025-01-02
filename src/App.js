@@ -5,7 +5,7 @@ import TimeDisplay from "./Components/TimeDisplay/TimeDisplay";
 function App() {
 	return (
 		<Container>
-			<TimeDisplay></TimeDisplay>
+			<TimeDisplay />
 		</Container>
 	);
 }
